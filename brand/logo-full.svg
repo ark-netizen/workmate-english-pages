@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 90">
+  <g>
+    <path d="M12 8h30a10 10 0 0 1 10 10v25a10 10 0 0 1-10 10h-15l-12.5 13.5V53H12a10 10 0 0 1-10-10V18A10 10 0 0 1 12 8z" fill="#1a56ff"/>
+    <path d="M42 8h30a10 10 0 0 1 10 10v25a10 10 0 0 1-10 10h-10v13.5L49.5 53H42a10 10 0 0 1-10-10V18a10 10 0 0 1 10-10z" fill="#14b8a6"/>
+  </g>
+  <text x="105" y="46" font-family="'Pretendard','Apple SD Gothic Neo',sans-serif" font-size="34" font-weight="800" fill="#0f172a">부캐영어</text>
+  <text x="107" y="70" font-family="'Pretendard','Apple SD Gothic Neo',sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#0f172a" opacity="0.55">WorkMate English</text>
+</svg>

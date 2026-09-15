@@ -1,0 +1,22 @@
+WorkMate English / 부캐영어
+Copyright (c) 2026 ark-netizen.
+All rights reserved, to the extent permitted by applicable law.
+
+This notice applies to project-owned logos, character artwork, illustrations,
+images, icons, UI designs, text, and application code. This is not an open-source
+or free-asset distribution.
+
+Normal viewing, execution, and browser caching necessary to use the service are
+permitted. No additional license to copy, modify, redistribute, sell, or reuse
+project-owned materials in other websites, apps, products, or promotional
+materials is granted without prior written permission from ark-netizen.
+
+Uses permitted by law are not restricted. Third-party components and assets retain
+their respective licenses and rights; this notice does not override them.
+Some materials were created with AI assistance. No exclusive rights beyond
+applicable law are asserted.
+
+공개 접근은 재사용 허락을 의미하지 않습니다. 서비스 이용에 필요한
+열람·실행·브라우저 캐싱 이외의 무단 사용·복제·수정·재배포·판매를
+허용하지 않습니다. 법령 또는 제3자 라이선스가 허용하는 이용은 예외입니다.
+사용 허락 문의: GitHub 계정 ark-netizen
