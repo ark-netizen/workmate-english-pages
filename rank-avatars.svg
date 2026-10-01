@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -12 504 116">
+  <defs>
+    <g id="otter-head">
+      <circle cx="9" cy="19" r="7" fill="#9a6a3a" stroke="#202723" stroke-width="2"/>
+      <circle cx="47" cy="19" r="7" fill="#9a6a3a" stroke="#202723" stroke-width="2"/>
+      <circle cx="9" cy="19" r="3" fill="#d7ad7d"/><circle cx="47" cy="19" r="3" fill="#d7ad7d"/>
+      <path d="M7 24C7 11 16 6 28 6S49 11 49 24v14c0 13-8 21-21 21S7 51 7 38Z" fill="#9a6a3a" stroke="#202723" stroke-width="2"/>
+      <path d="M13 40c1-9 8-13 15-13s14 4 15 13c-1 10-7 14-15 14s-14-4-15-14Z" fill="#f4dfc2"/>
+      <circle cx="18" cy="30" r="3" fill="#111"/><circle cx="38" cy="30" r="3" fill="#111"/>
+      <circle cx="17" cy="29" r=".8" fill="#fff"/><circle cx="37" cy="29" r=".8" fill="#fff"/>
+      <path d="M24 38q4-4 8 0c-1 5-4 5-4 5s-3 0-4-5Z" fill="#191919"/>
+      <path d="M28 43q-3 4-6 2m6-2q3 4 6 2" fill="none" stroke="#202723" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M12 39 2 36M12 43H1M44 39l10-3M44 43h11" fill="none" stroke="#202723" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+  </defs>
+
+  <g transform="translate(8 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#8fc8e3" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M25 63h6l2 12-5 6-5-6Z" fill="#173c66"/>
+    <path d="M18 62l4 10M38 62l-4 10" stroke="#526a78" stroke-width="1.5"/>
+    <rect x="23" y="75" width="10" height="13" rx="1.5" fill="#f9fbfd" stroke="#202723" stroke-width="1.2"/><rect x="25" y="78" width="6" height="4" fill="#6ba7d0"/>
+  </g>
+
+  <g transform="translate(80 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#f5f0df" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M11 59h10l7 9 7-9h10v42H11Z" fill="#d7a735" stroke="#202723" stroke-width="1.5"/>
+    <path d="M18 67v27M38 67v27" stroke="#7e6020" stroke-width="1.2"/>
+    <rect x="20" y="80" width="16" height="11" rx="2" fill="#6d5330" stroke="#202723" stroke-width="1.2"/>
+  </g>
+
+  <g transform="translate(152 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#9ecde7" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M25 62h6l2 11-5 6-5-6Z" fill="#1e3f67"/>
+    <rect x="16" y="76" width="24" height="17" rx="2" fill="#39434b" stroke="#202723" stroke-width="1.5"/><rect x="19" y="79" width="18" height="10" rx="1" fill="#65727c"/>
+  </g>
+
+  <g transform="translate(224 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#7da9c9" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M13 58l11 10 4-4 4 4 11-10 6 43H7Z" fill="#456f91" stroke="#202723" stroke-width="1.5"/>
+    <rect x="20" y="78" width="17" height="13" rx="1.5" fill="#e8edf1" stroke="#202723" stroke-width="1.2"/><path d="M23 82h11M23 86h9" stroke="#7a8790"/>
+  </g>
+
+  <g transform="translate(296 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#e8d2ae" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M10 58h12l6 11 6-11h12l4 43H6Z" fill="#c8a477" stroke="#202723" stroke-width="1.5"/>
+    <rect x="31" y="78" width="12" height="15" rx="2" fill="#fffdf7" stroke="#202723" stroke-width="1.2"/><path d="M43 82q6 0 4 6-1 3-4 2" fill="none" stroke="#202723" stroke-width="1.5"/><rect x="34" y="81" width="6" height="3" fill="#d08c54"/>
+  </g>
+
+  <g transform="translate(368 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#274f79" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M8 58h14l6 10 6-10h14l3 43H5Z" fill="#1d3e63" stroke="#202723" stroke-width="1.5"/>
+    <path d="M25 62h6l2 11-5 6-5-6Z" fill="#d2b35b"/><circle cx="40" cy="68" r="3" fill="#d8b24f" stroke="#202723"/><path d="M19 84q9-6 18 0" fill="none" stroke="#9fb7ca" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(440 0)">
+    <use href="#otter-head"/>
+    <rect x="3" y="57" width="50" height="47" rx="10" fill="#303234" stroke="#202723" stroke-width="2"/>
+    <path d="M20 58l8 9 8-9" fill="#fff" stroke="#202723" stroke-width="1.5"/>
+    <circle cx="8" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/><circle cx="48" cy="82" r="7" fill="#8a5b34" stroke="#202723" stroke-width="1.5"/>
+    <path d="M7 58h14l7 11 7-11h14l3 44H4Z" fill="#242628" stroke="#202723" stroke-width="1.5"/>
+    <path d="M25 62h6l2 11-5 7-5-7Z" fill="#ede8dc"/><path d="M12 82l26 12M44 82L18 94" stroke="#202723" stroke-width="5" stroke-linecap="round"/><circle cx="42" cy="67" r="3.2" fill="#d4aa45" stroke="#202723"/>
+  </g>
+</svg>

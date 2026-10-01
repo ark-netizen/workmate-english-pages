@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <script>
+      // GitHub Pages는 정적 호스팅이라 새로고침/직접 진입 시 SPA 라우트(react-router)를 못 찾고 404를 냄.
+      // 요청 경로를 쿼리스트링으로 인코딩해 index.html로 보내면, index.html의 스크립트가 원래 경로로 복원한다.
+      // (rafgraph/spa-github-pages 방식)
+      var l = window.location;
+      l.replace(
+        l.protocol + "//" + l.hostname + (l.port ? ":" + l.port : "") +
+          "/?p=" + encodeURIComponent(l.pathname + l.search + l.hash)
+      );
+    </script>
+  </head>
+  <body></body>
+</html>
